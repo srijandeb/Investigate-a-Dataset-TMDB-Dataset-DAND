@@ -1,2 +1,2 @@
 # Investigate-a-Dataset-TMDB-Dataset-DAND
-Udacity DAND Project 1
+Udacity Nanodegree DAND Project 1
