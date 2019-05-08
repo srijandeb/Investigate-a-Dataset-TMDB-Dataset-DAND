@@ -1,4 +1,5 @@
 # Investigate-a-Dataset-TMDB-Dataset-DAND
+# By Srijan Deb <br>
 Udacity Nanodegree DAND Project 1
 How do I Complete this Project?
 This project is connected with the Introduction to Data Analysis course, but depending on your background knowledge, you may not need to take the whole class to complete this project.
